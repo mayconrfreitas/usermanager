@@ -27,7 +27,6 @@ D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerServ
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
-D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.csproj.AssemblyReference.cache
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.GeneratedMSBuildEditorConfig.editorconfig
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.AssemblyInfoInputs.cache
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.AssemblyInfo.cs
@@ -43,3 +42,6 @@ D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerServ
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\ref\Users.API.dll
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.pdb
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.genruntimeconfig.cache
+D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\bin\Debug\net5.0\Users.API.xml
+D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.xml
+D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.csproj.AssemblyReference.cache

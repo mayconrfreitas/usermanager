@@ -30,15 +30,6 @@ namespace Users.API.Repositories
             return deleteResult.IsAcknowledged && deleteResult.DeletedCount > 0;
         }
 
-        //public async Task<bool> DeleteUsers(IEnumerable<string> ids)
-        //{
-        //    FilterDefinition<User> filter = Builders<User>.Filter.In(x => x.Id, ids);
-
-        //    DeleteResult deleteResult = await _context.Users.DeleteManyAsync(filter);
-
-        //    return deleteResult.IsAcknowledged && deleteResult.DeletedCount > 0;
-        //}
-
         public async Task<IEnumerable<User>> GetActiveUsers()
         {
             FilterDefinition<User> filter = Builders<User>.Filter.Eq(x => x.Active, true);
