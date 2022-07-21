@@ -128,7 +128,9 @@ namespace Users.API.Controllers
 
             if (!wasUpdated) return NotFound();
 
-            return Ok("User Active state updated");
+            var user = await _repository.GetUser(id);
+
+            return Ok(user);
         }
 
 

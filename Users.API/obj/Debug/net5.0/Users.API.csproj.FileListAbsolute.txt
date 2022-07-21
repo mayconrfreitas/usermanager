@@ -44,4 +44,3 @@ D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerServ
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.genruntimeconfig.cache
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\bin\Debug\net5.0\Users.API.xml
 D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.xml
-D:\MayconRicardodeFreit\OneDrive\Programação\__Source\Repos\ENGUserManagerService\Users.API\obj\Debug\net5.0\Users.API.csproj.AssemblyReference.cache

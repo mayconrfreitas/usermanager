@@ -15,6 +15,5 @@ namespace Users.API.Repositories
         Task CreateUser(User user);
         Task<bool> UpdateUserState(string id);
         Task<bool> DeleteUser(string id);
-        //Task<bool> DeleteUsers(IEnumerable<string> ids);
     }
 }
