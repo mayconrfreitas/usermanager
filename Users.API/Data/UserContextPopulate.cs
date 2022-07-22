@@ -21,18 +21,21 @@ namespace Users.API.Data
             {
                 new User()
                 {
+                    Id = "62d9f68de51a517ab820abab",
                     Name = "Maycon Freitas",
                     BirthDate = "1994-03-22",
                     Active = true
                 },
                 new User()
                 {
+                    Id = "62d9f68de51a517ab820abac",
                     Name = "Cristian LaFuente",
                     BirthDate = "1983-03-21",
                     Active = true
                 },
                 new User()
                 {
+                    Id = "62d9f68de51a517ab820abad",
                     Name = "Gustavo Gusmao",
                     BirthDate = "1995-09-05",
                     Active = true
