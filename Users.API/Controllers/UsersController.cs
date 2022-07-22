@@ -96,6 +96,8 @@ namespace Users.API.Controllers
         {
             if (user is null) return BadRequest("Invalid user");
 
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+
             string pattern = "^[0-9]{4}-[0-1][0-9]-[0-3][0-9]$"; //yyyy-MM-dd
             if (!Regex.IsMatch(user.BirthDate.ToString(), pattern)) return BadRequest("Date is in the wrong format. Please use the format: yyyy-MM-dd");
 
