@@ -29,16 +29,16 @@ namespace Users.API.Data
                 new User()
                 {
                     Id = "62d9f68de51a517ab820abac",
-                    Name = "Cristian LaFuente",
-                    BirthDate = "1983-03-21",
-                    Active = true
+                    Name = "Nikola Tesla",
+                    BirthDate = "1865-07-10",
+                    Active = false
                 },
                 new User()
                 {
                     Id = "62d9f68de51a517ab820abad",
-                    Name = "Gustavo Gusmao",
-                    BirthDate = "1995-09-05",
-                    Active = true
+                    Name = "Thomas Edison",
+                    BirthDate = "1847-02-11",
+                    Active = false
                 }
             };
         }
